@@ -1,3 +1,7 @@
+
+magic_number = 0
+magic_number += 1
+
 def add(x,y):
     return x+y
 
